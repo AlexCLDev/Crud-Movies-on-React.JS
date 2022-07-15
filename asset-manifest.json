@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AlexCLDev/Crud-Movies-on-React.JS/static/css/main.c2b6b762.css",
-    "main.js": "/AlexCLDev/Crud-Movies-on-React.JS/static/js/main.b19c6fe7.js",
+    "main.js": "/AlexCLDev/Crud-Movies-on-React.JS/static/js/main.582521ae.js",
     "index.html": "/AlexCLDev/Crud-Movies-on-React.JS/index.html",
     "main.c2b6b762.css.map": "/AlexCLDev/Crud-Movies-on-React.JS/static/css/main.c2b6b762.css.map",
-    "main.b19c6fe7.js.map": "/AlexCLDev/Crud-Movies-on-React.JS/static/js/main.b19c6fe7.js.map"
+    "main.582521ae.js.map": "/AlexCLDev/Crud-Movies-on-React.JS/static/js/main.582521ae.js.map"
   },
   "entrypoints": [
     "static/css/main.c2b6b762.css",
-    "static/js/main.b19c6fe7.js"
+    "static/js/main.582521ae.js"
   ]
 }
